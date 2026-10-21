@@ -1,4 +1,4 @@
-latest_date=2026-10-20
-updated_at=2026-10-20 20:00:41 CST
-rows=131177
+latest_date=2026-10-21
+updated_at=2026-10-21 20:02:18 CST
+rows=131228
 symbols=51
